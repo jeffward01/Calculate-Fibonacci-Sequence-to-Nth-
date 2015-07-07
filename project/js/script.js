@@ -18,6 +18,8 @@ reset1 = function () {
 }
 
 
-//Github:
-$ cat .gitattributes
-  *.rb linguist-language=JavaScript
+//
+//
+////Github:
+//$ cat .gitattributes
+//  *.rb linguist-language=JavaScript
