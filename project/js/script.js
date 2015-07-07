@@ -16,3 +16,8 @@ reset1 = function () {
   document.getElementById("output1").innerText =" ";
   document.getElementById("digit").value =" ";
 }
+
+
+//Github:
+$ cat .gitattributes
+  *.rb linguist-language=JavaScript
